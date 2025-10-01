@@ -3,6 +3,9 @@
   <head>
     <meta charset="UTF-8" />
     <title>DoMedia Assignment 2</title>
+    <link rel="stylesheet" href="css/styles.css" />
+    <!-- as="font"Other values could be "script", "style", "image" ,font/otf = OpenType Font ,crossorigin - This allows the font to be requested from another domain (or same domain) with proper permissions. -->
+    <link rel="preload" href="assets/HELVETICANEUE-THIN.OTF" as="font" type="font/otf" crossorigin/> 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   </head>
   <body>
@@ -22,8 +25,30 @@
         </nav>
       </div>
     </header>
+    <main>
+        <section class="'hero">
+            <div class="container hero-grid">
+                <div class="hero-copy">
+                    <h1>Don't look anywhere,<br/>
+                    <span>This is the best place on web</span></h1>
+                    <p>
+                        Living in today's metropolitan world of cellular phones, mobile computers and other
+                        high-tech gadgets is not just hectic but very
+                    </p>
+                    <a class="cta" href="#contact">
+                        <span>Get Started</span>
+                        <img src="assets/arrow-right.png" alt="" aria-hidden="true" />
+                    </a>
+                </div>
+                <div class="hero-visual" aria-hidden="true">
+                    <img class="laptop" src="assets/laptop.png" alt="" />
+                </div>    
+            </div>
+        </section>
 
-    
+    </main>
+
+    <script src="js/main.js"></script>
 
   </body>
 </html>
