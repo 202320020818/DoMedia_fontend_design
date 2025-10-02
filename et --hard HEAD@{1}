@@ -1,0 +1,14 @@
+[33mbf0cc2e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: reset: moving to HEAD~2
+[33mcaa32c6[m HEAD@{1}: reset: moving to HEAD~2
+[33m5d699e6[m HEAD@{2}: reset: moving to HEAD~2
+[33mb7557e3[m HEAD@{3}: commit: Update CSS for hero section padding and improve mobile navigation styles
+[33m688d9d9[m HEAD@{4}: commit: Update CSS for responsive navigation and enhance mobile menu functionality
+[33m5d699e6[m HEAD@{5}: commit: Refactor HTML structure and update CSS classes for improved navigation and layout
+[33m5a917d3[m HEAD@{6}: commit: Refactor CSS styles and update HTML structure to enhance layout and navigation functionality
+[33mcaa32c6[m HEAD@{7}: commit: Add font-face definition and enhance index.html structure with hero section
+[33m0c67697[m HEAD@{8}: commit: Implement code changes to enhance functionality and improve performance
+[33mbf0cc2e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{9}: commit: Add site icon and logo images; create empty CSS and JS files
+[33m503b402[m HEAD@{10}: commit: initial commit: add index.html with basic structure
+[33m630c94a[m HEAD@{11}: Branch: renamed refs/heads/main to refs/heads/main
+[33m630c94a[m HEAD@{13}: Branch: renamed refs/heads/master to refs/heads/main
+[33m630c94a[m HEAD@{15}: commit (initial): first commit
